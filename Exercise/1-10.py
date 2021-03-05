@@ -1,6 +1,6 @@
 a = int(input("Insert the value of a: "))
 b = int(input("Insert the value of b: "))
-
+import math
 
 print(a + b)
 print(b - a)
